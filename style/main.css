@@ -278,6 +278,18 @@ footer.footer>.talk h5 span:before {
 footer.footer>.talk {
 	background-color:#000
 }
+
+.thepattersoncamp\@text{color:#eaf4f4}
+.thepattersoncamp\@bg{background-color: #eaf4f4}
+.h-thepattersoncamp\@text:hover{color:#eaf4f4}
+.h-thepattersoncamp\@bg:hover{background-color: #eaf4f4}
+
+.developerportfolio\@text{color:#ffbc00}
+.developerportfolio\@bg{background-color:#ffbc00}
+.h-developerportfolio\@text:hover{color:#ffbc00}
+.h-developerportfolio\@bg:hover{color:#ffbc00}
+
+
 .cabbo\@text{color:#1f3046}
 .cabbo\@bg{background-color:#c03240}
 .h-cabbo\@text:hover{color:#c03240}
