@@ -289,6 +289,11 @@ footer.footer>.talk {
 .h-developerportfolio\@text:hover{color:#ffbc00}
 .h-developerportfolio\@bg:hover{color:#ffbc00}
 
+.elibrary\@text{color:#C61236}
+.elibrary\@bg{background-color:#C61236}
+.h-elibrary\@text:hover{color:#C61236}
+.h-elibrary\@bg:hover{color:#C61236}
+
 
 .cabbo\@text{color:#1f3046}
 .cabbo\@bg{background-color:#c03240}
@@ -1207,3 +1212,5 @@ ul li::before{
         color: black;
     }
 }
+
+
