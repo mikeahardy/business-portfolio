@@ -1039,7 +1039,8 @@ html {
 body {
 	font-family: manrope, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
 	margin:0;
-	color:#000;
+	color:#fff;
+	background-color: #000;
 	font-size:18px;
 	overflow-x:hidden;
 	cursor:default
@@ -1199,18 +1200,6 @@ ul li::before{
 	}
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #000;
-        color: white;
-    }
-}
 
-@media (prefers-color-scheme: light) {
-    body {
-        background-color: #fff;
-        color: black;
-    }
-}
 
 
