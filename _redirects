@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /index.html        /home 
 /blog.html  	   /blog
-/post-one.html     /blog/why-your-business-needs-a-website-in-2020
+/posts/post-one.html     /blog/http://mikeahardy.com/blog/why-your-business-needs-a-great-website-in-2020
