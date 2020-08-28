@@ -1202,4 +1202,6 @@ ul li::before{
 
 
 
-
+#blogButton {
+	text-decoration: none;
+}
