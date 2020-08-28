@@ -1,6 +1,7 @@
 # Redirects from what the browser requests to what we serve
-/home					/
-/blog.html  	   		/blog
-/posts/post-one.html    /post-one
-/blog/why-your-business-needs-a-great-website-in-2020		/posts/post-one.html
+/					/home				200!
+/home				/index.html			200!
+/blog				/blog.html			200!
+
+/blog/why-your-business-needs-a-great-website-in-2020		/posts/post-one.html		200!
 
