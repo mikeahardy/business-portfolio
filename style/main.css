@@ -279,20 +279,8 @@ footer.footer>.talk {
 	background-color:#000
 }
 
-.thepattersoncamp\@text{color:#eaf4f4}
-.thepattersoncamp\@bg{background-color: #eaf4f4}
-.h-thepattersoncamp\@text:hover{color:#eaf4f4}
-.h-thepattersoncamp\@bg:hover{background-color: #eaf4f4}
 
-.developerportfolio\@text{color:#ffbc00}
-.developerportfolio\@bg{background-color:#ffbc00}
-.h-developerportfolio\@text:hover{color:#ffbc00}
-.h-developerportfolio\@bg:hover{color:#ffbc00}
 
-.elibrary\@text{color:#C61236}
-.elibrary\@bg{background-color:#C61236}
-.h-elibrary\@text:hover{color:#C61236}
-.h-elibrary\@bg:hover{color:#C61236}
 
 
 .cabbo\@text{color:#1f3046}
@@ -1205,3 +1193,27 @@ ul li::before{
 #blogButton {
 	text-decoration: none;
 }
+
+
+/*Portfolio Projects Colors*/
+.thepattersoncamp\@text{color:#eaf4f4}
+.thepattersoncamp\@bg{background-color: #eaf4f4}
+.h-thepattersoncamp\@text:hover{color:#eaf4f4}
+.h-thepattersoncamp\@bg:hover{background-color: #eaf4f4}
+
+.developerportfolio\@text{color:#ffbc00}
+.developerportfolio\@bg{background-color:#ffbc00}
+.h-developerportfolio\@text:hover{color:#ffbc00}
+.h-developerportfolio\@bg:hover{color:#ffbc00}
+
+.elibrary\@text{color:#C61236}
+.elibrary\@bg{background-color:#C61236}
+.h-elibrary\@text:hover{color:#C61236}
+.h-elibrary\@bg:hover{color:#C61236}
+
+
+/*Blog Post Colors*/
+.post-one\@text{color:#0000eb}
+.post-one\@bg{background-color:#0000eb}
+.h-post-one\@text:hover{color:#0000eb}
+.h-post-one\@bg:hover{color:#0000eb}
