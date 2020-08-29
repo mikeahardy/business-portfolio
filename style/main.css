@@ -1217,3 +1217,8 @@ ul li::before{
 .post-one\@bg{background-color:#0000eb}
 .h-post-one\@text:hover{color:#0000eb}
 .h-post-one\@bg:hover{color:#0000eb}
+
+.post-two\@text{color:#DB7093}
+.post-two\@bg{background-color:#DB7093}
+.h-post-two\@text:hover{color:#DB7093}
+.h-post-two\@bg:hover{color:#DB7093}
