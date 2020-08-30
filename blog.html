@@ -9,6 +9,21 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-176422221-1');
+  gtag('config', 'AW-597667534');
+</script>
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-597667534/acTuCIKSh90BEM7d_pwC',
+      'event_callback': callback
+  });
+  return false;
+}
 </script>
 
         <title>
@@ -35,7 +50,7 @@
                             </div>
                                 <div class="project r1 dark post-one@bg">
                                     <div class="info">
-                                        <h5>Why Your Business Needs A Website In 2020</h5>
+                                        <h5>Why Your Business Needs A Great Website In 2020</h5>
                                         <a href="/blog/why-your-business-needs-a-great-website-in-2020"  rel="noopener noreferrer" class="flex items-center button dark mt8">
                                             <span class="bold ">Read Now</span>
                                         </a>
@@ -74,7 +89,7 @@
                                 <br>
                             </p>
                                 </div>
-                                <a href="mailto:mike@mikeahardy.com?subject=Hi%20Mike!%20%E2%9C%8B" target="_blank" rel="noopener noreferrer" class="flex items-center button light mt6">
+                                <a onclick="return gtag_report_conversion('mailto:mike@mikeahardy.com?subject=Hi%20Mike!%20%E2%9C%8B');" href="mailto:mike@mikeahardy.com?subject=Hi%20Mike!%20%E2%9C%8B" target="_blank" rel="noopener noreferrer" class="flex items-center button light mt6">
                                         <span class="bold ml3">Email me ></span>
                                     </a>
                                 </div>
