@@ -1,8 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/					/index.html			200!
-/home				/index.html			200!
-/blog				/blog.html			200!
-
-/blog/why-your-business-needs-a-great-website-in-2020		/posts/post-one.html		200!
-/blog/does-your-website-need-an-update						/posts/post-two.html		200!
-
